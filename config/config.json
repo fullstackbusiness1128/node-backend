@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "gennera_photos_dev",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root123",
+    "database": "gennera_photos",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "root123",
+    "database": "gennera_photos",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
